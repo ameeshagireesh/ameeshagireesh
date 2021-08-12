@@ -1,5 +1,5 @@
 ## hello there! i'm 
-# **ameesha gireesh**
+ **ameesha gireesh**
 
 ## i'm also some other things:
     - a second year student at vellore institute of technology studying computer science with a specialization in bioinformatics
