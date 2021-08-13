@@ -6,5 +6,3 @@
 - a major math geek with interests varying in graph theory, statistics, probability and periodic functions (cough cough fourier series)
 - a strong believer in breaking and making things 
 - fun fact: i absolutely love swimming and painting . i also play the guitar.
-
-### **Languages and Tools:**
