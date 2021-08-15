@@ -2,9 +2,10 @@
 ## **ameesha gireesh** (she/her)
 
 ### i'm also some other things: 
-- a second year student at vellore institute of technology studying computer science with a specialization in bioinformatics
-- a major math geek with interests varying in graph theory, statistics, probability and periodic functions (cough cough fourier series)
-- a strong believer in breaking and making things 
-- fun fact: i absolutely love swimming and painting . i also play the guitar.
+- a second year student at vit vellore studying cs with bioinformatics
+- a major math geek with interests varying in graph theory, statistics, and periodic functions (cough cough fourier series)
+- a strong believer in breaking and making things for growth.
+- fun fact: i absolutely love swimming, debating and painting. i also play the guitar.
 
-### **Languages and Tools:**
+[![Ameesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeshagireesh&count_private=true&show_icons=true&theme=merko)
+](https://github.com/ameeshagireesh/github-readme-stats)
