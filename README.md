@@ -6,6 +6,9 @@
 - a major math geek with interests varying in graph theory, statistics, and periodic functions (cough cough fourier series)
 - a strong believer in breaking and making things for growth.
 - fun fact: i absolutely love swimming, debating and painting. i also play the guitar.
+  
+ 📫 How to reach me: **ameeshagireesh.kumar2020@vitstudent.ac.in**
+
 
 [![Ameesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeshagireesh&count_private=true&show_icons=true&theme=merko)
 ](https://github.com/ameeshagireesh/github-readme-stats)
@@ -39,9 +42,13 @@
 
 ### **Connect with me:**
 <p align="left">
+<a href="https://linkedin.com/in/ameeshagireesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameeshagireesh" height="30" width="40" /></a>
 <a href="https://twitter.com/ameeshagkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameeshagkm" height="30" width="40" /></a>
 <a href="https://instagram.com/notameesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notameesha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ameejuana" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ameejuana" height="30" width="40" /></a>
 </p>
+
+
+
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameeshagireesh&show_icons=true&locale=en&layout=compact" alt="ameeshagireesh" /></p> -->
