@@ -5,7 +5,7 @@
 - a second year student at vit vellore studying cs with bioinformatics.
 - a major math geek with interests varying in graph theory, statistics, and periodic functions (cough cough fourier series).
 - a strong believer in breaking and making things for growth.
-- <b> fun fact: </b> i absolutely love swimming, debating and painting. i also play the guitar.
+- <b> fun fact: </b> i absolutely love swimming, formula 1, debating and painting.
   
  📫 How to reach me: **ameeshagireesh.kumar2020@vitstudent.ac.in**
 
