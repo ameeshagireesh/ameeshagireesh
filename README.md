@@ -53,6 +53,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameeshagireesh&show_icons=true&locale=en&layout=compact" alt="ameeshagireesh" /></p> -->
 
-### **Daily.dev Card**
+<!-- ### **Daily.dev Card**
 
 <a href="https://app.daily.dev/ameeshagireesh"><img src="https://api.daily.dev/devcards/8288fb69942f4d0096429fef55251bac.png?r=ix4" width="400" alt="Ameesha Gireesh's Dev Card"/></a>
+ -->
