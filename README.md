@@ -2,7 +2,7 @@
 ## **ameesha gireesh** (she/her)
 
 ### i'm also some other things: 
-- a second year student at vit vellore studying cs with bioinformatics.
+- a third year student at vit vellore studying cs with bioinformatics.
 - a major math geek with interests varying in graph theory, statistics, and periodic functions (cough cough fourier series).
 - a strong believer in breaking and making things for growth.
 - <b> fun fact: </b> i absolutely love swimming, formula 1, and painting.
@@ -48,12 +48,3 @@
 <a href="https://www.codechef.com/users/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ameejuana" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ameejuana" height="30" width="40" /></a>
 </p>
-
-
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameeshagireesh&show_icons=true&locale=en&layout=compact" alt="ameeshagireesh" /></p> -->
-
-<!-- ### **Daily.dev Card**
-
-<a href="https://app.daily.dev/ameeshagireesh"><img src="https://api.daily.dev/devcards/8288fb69942f4d0096429fef55251bac.png?r=ix4" width="400" alt="Ameesha Gireesh's Dev Card"/></a>
- -->
